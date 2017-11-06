@@ -9,9 +9,9 @@ namespace GitRebase
     class Constant
     {
         // test
-        public const string WEB_URL = "Test.com";
+        //public const string WEB_URL = "Test.com";
 
         // 本番
-        //public const string WEB_URL = "honban.com";
+        public const string WEB_URL = "honban.com";
     }
 }

@@ -8,7 +8,7 @@
         <StackLayout>
             <Label
                 HorizontalOptions="CenterAndExpand"
-                Text="変更３"
+                Text="変更４"
                 VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
